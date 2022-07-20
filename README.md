@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Tom
+- 👋 Hi, I’m Tom 🏴󠁧󠁢󠁥󠁮󠁧󠁿 I'm a Full time Web Developer 💻
 - 👀 I’m interested in PHP, MYSQL, JAVASCRIPT, PYTHON, JQUERY, REDIS, MEMCACHE, LINUX, CSS
 - 🌱 I’m currently learning REACT
 - 💞️ I’m looking to collaborate on OPENSOURCE PROJECTS
