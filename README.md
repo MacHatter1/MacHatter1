@@ -1,12 +1,14 @@
-👋 Hello! I'm Tom 🏴, a passionate Web Developer dedicated to crafting dynamic and responsive web solutions. My toolkit includes a broad range of technologies such as PHP, MySQL, JavaScript, Python, jQuery, Redis, Memcache, Linux, and CSS.
+👋 Hello! I'm Tom 🏴, CTO at an AI-powered EdTech company, building intelligent learning experiences that make education smarter and more accessible.
 
-👀 I have a keen interest in evolving web technologies and am always exploring new ways to enhance web functionality and user experience.
+🧠 My day-to-day revolves around AI agents, TypeScript, Go, and modern full-stack development. I also work with Python, Node.js, React, and cloud infrastructure to ship products that make a real impact in education.
 
-🌱 Currently, I'm on a learning journey with React, diving deep into its ecosystem to build more interactive and stateful UIs.
+🔧 On the side, I'm building an AI agent orchestration framework with MCP integration, multi-model support, and an Electron-based desktop app. More to come when it goes public!
 
-💞️ I'm eager to contribute to open-source projects. Collaborating on such initiatives allows me to share my skills, learn from the community, and help shape the future of web development.
+👀 I'm deeply interested in agentic AI, developer tooling, and how emerging tech can transform the way people learn.
 
-Feel free to reach out if you're interested in collaborating on a project or if you think we can create something amazing together!
+💞️ I'm always open to collaborating on open-source projects — especially at the intersection of AI, education, and developer experience.
+
+Feel free to reach out if you'd like to build something together!
 
 <!---
 MacHatter1/MacHatter1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
